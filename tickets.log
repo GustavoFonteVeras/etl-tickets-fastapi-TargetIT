@@ -1,0 +1,998 @@
+[19/11/2025 00:35:07] -- Novo ticket inserido | id = None | desc = Criação de rotina de expurgo de dados na base : faturahosp-db-flex-prd.postgres.database.azure.com
+Deve ser executada uma vez por mês.
+Script em anexo.
+[19/11/2025 00:35:07] -- Novo ticket inserido | id = None | desc = Formatação de máquina via Intune para colaborador.
+ 
+Nome colaborador: Maria Vandecleia Pereira Da Cruz
+E-mail: maria.vandecleia.pereira@dasa.com.br
+CPF: f36729686847 
+Matricula: 61002
+[19/11/2025 00:35:07] -- Novo ticket inserido | id = None | desc = Notebook de avaliação - Desligamento
+Patrimônio: 500614
+Service Tag: PE05GONW
+Nome do colaborador: TIAGO DE ARAUJO BRAGA 
+Solicito validação do status do equipamento
+[19/11/2025 00:35:08] -- Novo ticket inserido | id = None | desc = Bom dia, tudo bem?
+Alarmes WLC Wtorre - Favor avaliar a necessidade de monitoramento.
+[19/11/2025 00:35:08] -- Novo ticket inserido | id = None | desc = Instalação dos módulos de segurança dos bancos. 
+
+Itaú, BB, Bradesco
+[19/11/2025 00:35:08] -- Novo ticket inserido | id = None | desc = Boa tarde, solicito reset de senha para os laboratórios apoiados (externos) em anexo. Obrigada!
+[19/11/2025 00:35:08] -- Novo ticket inserido | id = None | desc = Criação de rotina de expurgo:
+Segue script para fazer expurgo na base: autenticacoes-db-flex-prd.postgres.database.azure.com
+Em anexo o script, que limpa os registros da tabela eligibility.complete_report com mais de 2 anos.
+[19/11/2025 00:35:08] -- Novo ticket inserido | id = None | desc = Boa tarde,
+
+Solicito o desbloqueio/ reset de senha, pois o meu login não entra. Mesmo enviando uma nova senha de reset, informa que não é possivel. 
+
+Poderia verificar, por gentileza
+
+Obrigada.
+[19/11/2025 00:35:08] -- Novo ticket inserido | id = None | desc = Prezados,
+
+Realizada abertura no portal de acessos solicitando a criação do meu Gliese, o mesmo foi finalizado, porém não consigo acessar, ao tentar redefinir a senha, consta que não foi vinculado o meu e-mail para envio do reset, solicito a correção:
+
+Nome: Carolina Quitto de Castro
+CPF: 40028235800
+Login: F40028235800
+E-mail: carolina.quitto@dasa.com.br
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Solicito acesso gliese para marca ALTA, para uso na operação HSC. Enviar no e-mail: THAIS.HEDER@DASA.COM.BR
+
+APARECIDO GOMES FERREIRA
+CPF: 303.863. 108-66
+DN: 20/12/83
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Solicito um equipamento de Moxa, um DB9 macho e um DB9 fêmea para instalação de interface no equipamento Rotem do Hospital Santa Joana-PE
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Bom dia, solicito unidade de imagem para Unidade Bronstein Downtown.
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Bom dia, tudo bem?
+Alarmes do Cisco ISE - Favor avaliar a necessidade de monitoramento.
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Bom tarde !! Solicito um ajuste de cnes na marca Lustosa para o convênio Cosipa- alfa(Lu-198-Lu-2316-Lu-1780-Local de negocio-0001,  pois o convênio só aceita o cnes matriz e todos estão por unidade, CNES matriz 3127230, segue a planilha
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Boa tarde, não estamos conseguindo mais realizar o loguin da colaboradora no teans instalado no computador: 10.209.238.129, mesmo pelo navegador crome, o que está gerando grande impacto no atendimento visto que é na área da coleta. Preciso de ajuda com muita urgência.
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = etiquetadora esteira roche B, não está imprimindo etiquetas legíveis ao equipamento.
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Instalação do teams
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Intalação do Chrome
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Prezados, boa tarde!
+Solicito aumento de memoria RAM do computador, pois o computador está com lentidão e travando constantemente, memoria com apenas 4 GB RAM. IP = 172.19.252.165 - GUICHE 12
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Impressora começou a pedir troca de toner
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Prezados, 
+Tenho acesso e a liberação para fazer solicitação de material, porém qualquer material que eu vá solicitar aparece o erro conforme imagens abaixo.
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Prezados, estamos em fase de implementação de um serviço com o Serasa e nossas mensagens por e-mail foram bloqueadas pela DLP. Gostaria de solicitar  a liberação do e-mail para que o serasa realize o suporte ao serviço
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Solicito inativação da unidade no sistema sqdasa undiade encotra-se fechada desde setembro 2025
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Boa tarde, solicito criação de acesso ao motion para a colaboradora:
+Maiara de Oliveira
+CPF: 067.744.929-16
+
+Usar o perfil
+GG_BR_APL_PROJETO_NIRVANA_STA_LUZIA
+
+E adicionar as telas: 
+- Reimpressão de OS 
+- Suspensão de Testes 
+- inserir a opção "laudo" ao adicionar um comentário num exame
+- Alteração da Composição de Testes
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+
+DELL Latitude 3420 550097 G4V1SJ3
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Solicito um hub de USB, pois utilizo mouse, fone e teclado, mas a 3ª porta USB está com defeito.
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+DELL Latitude 3420 550003 8BV1SJ3
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Executei a transação zmmr018 para integrar a conta contábil 4201050026, do SAP para o Coupa. Porém, a mesma não foi criada no Coupa. Favor verificar se a mesma apresenta algum dado incorreto para esta integração.
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Atualização de imagem 
+DELL Latitude 3420 549818 5QV1SJ3
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+DELL Latitude 3420 545418 5S4X393
+[19/11/2025 00:35:09] -- Novo ticket inserido | id = None | desc = Solicito a instalação da estação de trabalho do laboratório dentro do centro cirurgico
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = bom dia, não recebo os comunicados do RH e da empresa como um todo, exemplo, comunicado de fim de ano. poderiam ajustar?
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Hoje meu teams vem apresentando problemas, com mensagens de erro referente a versão utilizada.
+Já havia sido atualizada a 2 meses atrás, porém voltou a acontecer e não consigo acessar,
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Informar o CNPJ
+14.877.243/0001-17
+
+Número de série do Relógio de Ponto
+00006005340000301
+
+
+Por gentileza, solicito a atualização da base de dados para cadastro de biometria do colaborador abaixo,  no Relógio de Ponto da marca Chromatox.
+
+Eduardo Guedes Sales  - matrícula: 158915
+Obrigado
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito acesso ao Portal Pessoas para ajustes de ponto dos colaboradores referente a todo dia 1 de cada mês.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito acesso ao medallia de gestores + piloto. Coordenador Valter deu ok.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Computados não acessa o Teams, informa que precisa atualizar. Necessário reinstalar.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Bom dia tudo bem? Foi solicitado para verificar a impressora, pois a qualidade de imagem está muito ruim, o Técnico veio até a unidade de Triagem  e informou que seria só o lacre que precisaria tirar nao cartucho, pois mesmo assim o erro continua e a qualidade de imagem está insatisfatória, por gentileza poderia verificar o quanto antes esse ocorrido, pois não podemos ficar sem a impressora, desde já agradeço atenção
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Monitor com mal contato fica piscado, ligando e desligando IP10.111.96.5
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Formatação de máquina via Intune para colaborador. 
+
+Nome colaborador: Aline Dos Reis Saraiva Doria
+
+E-mail: aline.doria@dasa.com.b
+CPF: f35423791820
+Matricula: 26999
+Patrimônio: 549925
+Service Tag: D8V1SJ3
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Nome: Giovanna Silva Justino
+CPF:54691195807
+Descrição: A colaboradora informa que anteriormente atuava como jovem aprendiz e foi recentemente efetivada. Solicita a atualização do cargo nos sistemas.  
+Sistema/Marca: Portal pessoa 
+Ramal ou Telefone:11988270054
+Hospital/ Unidade: portal do Morumbi 
+Setor: recepção 
+Bloco: n/a 
+Andar: 1°
+E-mail : giovanna.justino@dasa.com.br 
+Horário de trabalho: 7 às 13horas
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = boa tarde
+solicito um tecnico na  unidade no dia 27/10 na parte da manhã, para verificação  e avaliação de portas de redes, impressora e computadores.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Notebook para  avaliação 
+Patrimônio: 500512
+Service Tag:PE05FXRL
+
+Solicito validação do status do equipamento
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Impressora não está imprimindo, o técnico já veio para arrumar o problema mais o problema persistiu.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = MEU NOTEBOOK ESTÁ RODANDO A BOLINHA, LENTO QUANDO TENTO EDITAR DOCUMENTOS. QUANDO BAIXO ALGUM DOCUMENTO APARECE MENSAGEM QUE ESTÁ SEM ESPAÇO. OBRIGADA
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Por favor, agendar a ida do técnico em 11.11 as 16horas para instalar o Client NDD na máquina da empresa Stellantis e com isto, obter o monitoramento da impressora 
+MODELO SERIAL
+WF-M5799 X3BK035623
+Importante saber que o Técnico da Stellantis irá acompanhar a visita e entrar com a senha do Administrador nesta máquina. 
+Chamado autorizado pelo Francisco Menezes e Carlos Eduardo de Souza.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Título -  Redirecionamento 301 e Correção de Slug — “labirintite” (Portal Rede Américas)
+Cenário: 
+
+Dado que foi identificado no Portal Rede Américas um erro ortográfico no slug da página sobre sintomas de labirintite (/post/laberintite/),
+Quando o time de conteúdo corrigir o slug e a canonical no Strapi para /post/labirintite/
+E for criada uma regra de redirecionamento 301 permanente no servidor, direcionando:
+https://www.saudeamericas.com.br/post/laberintite/ → https://www.saudeamericas.com.br/post/labirintite/,
+Então o tráfego da URL antiga deverá ser automaticamente redirecionado para a nova,
+E os mecanismos de busca deverão reconhecer que o conteúdo permanece o mesmo,
+E o posicionamento orgânico e o ranqueamento conquistado anteriormente deverão ser preservados.
+Impacto:
+Sem o redirect, o Google interpretará a nova URL como conteúdo diferente, ocasionando perda de ranqueamento e tráfego orgânico. O redirect 301 garante a transferência de autoridade e a manutenção do posicionamento para o termo “labirintite”.
+
+Objetivo
+Corrigir o erro de URL sem prejudicar o desempenho orgânico e manter a consistência do SEO e das referências internas.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Favor solicito o seu de acordo para acesso ao Portal Medallia, com acesso para todas as marcas e perfil [DIAG] Gestores e permissão para Diagnósticos - Paciente
+
+Bianca da Cruz Mourão
+CPF: 443.824.668-73
+Matrícula: 158535
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Prezados,
+
+Foi verificado que a colaboradora está enfrentando erro ao tentar acessar o e-mail, recebendo a mensagem de que o usuário informado está incorreto. Conforme análise inicial, o usuário no AD está correto de acordo com o padrão F+CPF. Realizamos o reset da senha juntamente com a colaboradora e efetuamos o teste após a redefinição, porém o problema persiste.
+
+Solicitamos, por gentileza, que verifiquem o caso e realizem as correções necessárias para normalização do acesso.
+
+Alessandra Mariano Lucera Campos
+F25547802859
+alessandra.campos@dasa.com.br
+Tel. Contato: 11958595753
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito validação de uso para marca ALTA, para uso na operação HSC. Por favor enviar nova senha para o meu e-mail: THAIS.HEDER@DASA.COM.BR 
+
+ANA THAMIRES MATOS DOMINGOS AROUCA
+CPF: 108.910.346-84
+DN: 23/06/92
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = solicito toner para impressora do pre atendimento pois o mesmo esta com a tinta falhando . o numero de sera da mesma nao esta aparecendo para informa o equipamento  BRBSSDT0XN
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Necessito de cabos de rede e fonte da impressora
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito o meu acesso ao sistema motion contendo as seguintes abas: administrar pedidos médicos, gerenciamento de etapas de processos, relatórios de pendencias com setor de anatomia, gerenciamento de requisição, gerenciador de comentários de amostras/container. De acordo e anexo
+Obrigada!
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Por favor fazer a liberação de maquina para o usuário Wesley Froes da Silva. Login: F60864820399 Senha: W!fr#608.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = SOLICITO ACESSO A PASTA DE REDE E EXISTE O ACORDO DO HALISON WENICIUS EM ANEXO, POR GENTILEZA VALIDAR.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = A impressora parou de funcionar dando erro de Fusor , reiniciamos sem êxito. solicito que um técnico avalie .
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Colaboradora entrou em contato solicitando as seguintes alterações no sistema:
+
+A colaboradora já tem acesso ao monitor de pendencias, mas não  a liberação de resultados, que fica dentro do monitor de pendencias;
+
+Inclusão do CRBM 11056-DF.
+
+O chamado está sendo reaberto pela quarta vez, conforme histórico do chamado anterior RITM0950445, para continuidade do atendimento e ajustes pendentes.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = \\svriofile01.dasa.net\Departamentos\DPControle de Qualidade\CQA RJ
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Bom dia! 
+Tenho dois computadores que estão sem leitor de código de barras. Utilizamos para importação de cadastrados do setor SUS. Sem o equipamento atrasamos o cadastros e temos que cadastrar os pacientes manualmente
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito que seja criado um grupo no domínio DASA.NET e seja incluído os seguintes colaboradores (fabricia.costa@dasa.com.br, Luana.anjos@dasa.com.br, Geiza.muniz@dasa.com.br, vick.lima@dasa.com.br) para que seja inserido na permissão da pasta que foi criada no nosso sistema de arquivos.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito  acesso ao sistema MEDALLIA, para que eu possa acompanhar os indicadores e realizar ações necessárias relacionadas  a experiencia do paciente de forma mais eficiente.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito acesso ao Rancher do Canal do Consultor para os ambientes DEV e HML
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = etiquetadora com defeito, não funciona. imprime errado as etiquetas.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Já tenho acesso ao Medallia, porém preciso alterar meu perfil para perfil Clooper com TODAS as regionais, Marcas e Unidades disponíveis para pesquisas médicas.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = solicito apoio tecnico para a  impressora pois esta saindo a impresso muita clara nao  elegivel e muita lenta .solicito urgencia.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito acesso ao sistema.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Prezados, Boa Tarde. 
+
+Necessito que seja efetuado a liberação de Acesso Administrador no Sistema Coupa para o Marcelo Silveira, devido que o mesmo executará algumas atividades relacionadas ao Coupa para o ambiente Rede Américas. Ex. (ajuste de alçada de aprovações, etc). 
+
+Seguem dados abaixo 
+ 
+
+Nome - Marcelo Antonio Silveira 
+E-mail/Usuário - marcelo.silveira@dasa.com.br
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = IP: 10.109.247.51
+Modelo: BRBSPCP0M3 - E52645
+HP laset jet MFP Managed
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito instalação e configuração de impressora.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Venho por meio deste, informar que sou a nova enfermeira da unidade da Unidade Shopping União e, como parte da equipe de liderança, preciso assumir a fila de ocorrências para auxiliar nas tratativas dos nossos pacientes.
+
+Dessa forma, solicito que todas as ocorrências registradas/recebidas pela D664 entrem em minha fila
+ para que eu possa acompanhar, priorizar e atuar junto às equipes envolvidas.
+Segue anexo o de acordo da Coordenadora responsável pela unidade.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Falta de toner em estoque.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Colaboradora já tem a linha precisa apenas do aparelho, pois o antigo caiu e a tela esta toda quebrada impossibilitando o uso.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Impressora esta parada e não estamos conseguindo atender nossos pacientes, pois estamos com a etiquetadora inoperante
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Unidade encontra-se com duas impressoras que não estão atendendo a necessidade. Gerando impacto no atendimento dos clientes e causando reclamações constantes no momento da impressão. Por diversas vezes foram feitas manutenções todas não efetivas. Ambas impressoras estão na unidade desde a inauguração. Solicito troca de equipamentos por novos a afim de melhorar a experiência do cliente.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = computador não liga
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Colaboradora entrou em contato solicitando as seguintes alterações no sistema:
+
+Liberação de resultados (segue anexo relatando exatamente o que preciso) "liberar resultados" (caminho: home -> produção -> monitor de pendências -> LIBERAR RESULTADOS
+
+Inclusão do CRBM-DF 11056.
+
+O chamado está sendo reaberto pela quarta vez, conforme histórico do chamado anterior RITM0950445, para continuidade do atendimento e ajustes pendentes.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicto configuração da eqtiquetadora gliese no computador do hospital, eles não permitem acesso remoto, necessario instalação presencial das 8-15 seg a sex, tecnico da Ti local precisa acompanhar, chamado anterior encerrado indevidamente, etiquetadora localizada na sala de impressoras
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito a inclusao da Aba resultado - no usuario da colaboradora 
+
+Nathalia Rocha da Silva 
+CPF: 557.234.108-81
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = solicito de acordo compra de WebCan, para participar de reuniões na marca Exame.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Impressora parada por falta de tonner.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito alteração de perfil e acesso a fila de ocorrências internas e externa da unidade Lavoisier Ibirapuera para a unidade  Alta Parque Ibirapuera.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito a criação deste usuario para o usuario T01942063422 - Caio Cesar Rodrigues de Oliveira
+nos ambiente HCM DEV 100 e HCM QAS 200.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Bom dia. Notebook travando, desconectando wifi  frequentemente, não sai som e também não aceita fone de ouvido REDSET só por bluetooth.  Nao consigo participar de nenhuma  Reuniao usando o Note.  Quando abro a configuração do microfone o aparelho trava. Obrigado
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Olá boa noite. Solicito a configuração do perfil SVC cardiologia, pois não estamos conseguindo entrar no nosso outlook, dasadesk, teams, portalpessoas, entramos  neles somente com nosso login pessoal, porém com esses logins não temos acesso as pastas e aos apps necessários da cardiologia.
+
+Grata desde já.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Não estou conseguindo acessar nenhum sistema Dasa (Zabbix, Fireflow, Cofre de Senhas) do Home Office mesmo com a VPN conectada. 
+
+Meu notebook antes estava vinculado ao domínio do Laboratório São Marcos.
+Ontem ele foi formatado e virado para o domínio Dasa. Após isso, acesso aos sistemas internos pararam de funcionar.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Não consigo fazer login. Consigo entrar pelo google, mas pelo aplicativo não consigo.
+Já aconteceu isso antes, foi arrumado uma vez, mas pouco tempo depois voltou a aparecer a mesma mensagem.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Colaboradora promovida via programa crescer para o cargo de Agente de Relacionamento I, a virada em portal será em dezembro, mas precisamos iniciar com os treinamentos e visitas para black friday Genera.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Preciso de ajuda
+Paciente realizou exame ontem e no atendimento estava tudo certo.
+Hoje no fechamento de lote identificamos  que o atendimento de ontem estava com nome e data de nascimento divergente com a Cip e visita igual
+
+NOME: Luana Paixao Wanderley
+CIP: 6183552426 - 6
+CPF: 145.952.047-52
+DATA DE NASCIMENTO: 23/11/1987
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Solicito adaptador para fone de ouvido, de thunderbolt (entrada do macbook pro)  para entrada USB.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Cabo display porte xvga 
+Solicito cabo para conectar computador e cpu
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Caros, bom dia!
+
+
+Conforme orientado pela BP da área, devido a uma falha sistêmica diversos colaboradores das unidades vieram para meu portal. 
+O time do RH já fez o ajuste do organograma, porém na área do ponto ainda está errado. Preciso que seja realizada a integração conforme organograma para que esses colaboradores sejam transferidos para hierarquia correta.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Bom Dia, foi concedido o acesso ao portal pessoas, porém, preciso que a colaboradora consiga fazer pesquisas dos I'ds que trabalha, na aba recrutamento, ela não tem o acesso, por favor, liberar. A solicitação do acesso ao portal pessoas seria para esta permissão. 
+
+Agradeço.
+[19/11/2025 00:35:10] -- Novo ticket inserido | id = None | desc = Sou analista de pesquisa clínica e necessito de acesso de operador
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Criação de rotina de expurgo de dados na base : faturahosp-db-flex-prd.postgres.database.azure.com
+Deve ser executada uma vez por mês.
+Script em anexo.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Formatação de máquina via Intune para colaborador.
+ 
+Nome colaborador: Maria Vandecleia Pereira Da Cruz
+E-mail: maria.vandecleia.pereira@dasa.com.br
+CPF: f36729686847 
+Matricula: 61002
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Notebook de avaliação - Desligamento
+Patrimônio: 500614
+Service Tag: PE05GONW
+Nome do colaborador: TIAGO DE ARAUJO BRAGA 
+Solicito validação do status do equipamento
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Bom dia, tudo bem?
+Alarmes WLC Wtorre - Favor avaliar a necessidade de monitoramento.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Instalação dos módulos de segurança dos bancos. 
+
+Itaú, BB, Bradesco
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Boa tarde, solicito reset de senha para os laboratórios apoiados (externos) em anexo. Obrigada!
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Criação de rotina de expurgo:
+Segue script para fazer expurgo na base: autenticacoes-db-flex-prd.postgres.database.azure.com
+Em anexo o script, que limpa os registros da tabela eligibility.complete_report com mais de 2 anos.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Boa tarde,
+
+Solicito o desbloqueio/ reset de senha, pois o meu login não entra. Mesmo enviando uma nova senha de reset, informa que não é possivel. 
+
+Poderia verificar, por gentileza
+
+Obrigada.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Prezados,
+
+Realizada abertura no portal de acessos solicitando a criação do meu Gliese, o mesmo foi finalizado, porém não consigo acessar, ao tentar redefinir a senha, consta que não foi vinculado o meu e-mail para envio do reset, solicito a correção:
+
+Nome: Carolina Quitto de Castro
+CPF: 40028235800
+Login: F40028235800
+E-mail: carolina.quitto@dasa.com.br
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito acesso gliese para marca ALTA, para uso na operação HSC. Enviar no e-mail: THAIS.HEDER@DASA.COM.BR
+
+APARECIDO GOMES FERREIRA
+CPF: 303.863. 108-66
+DN: 20/12/83
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito um equipamento de Moxa, um DB9 macho e um DB9 fêmea para instalação de interface no equipamento Rotem do Hospital Santa Joana-PE
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Bom dia, solicito unidade de imagem para Unidade Bronstein Downtown.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Bom dia, tudo bem?
+Alarmes do Cisco ISE - Favor avaliar a necessidade de monitoramento.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Bom tarde !! Solicito um ajuste de cnes na marca Lustosa para o convênio Cosipa- alfa(Lu-198-Lu-2316-Lu-1780-Local de negocio-0001,  pois o convênio só aceita o cnes matriz e todos estão por unidade, CNES matriz 3127230, segue a planilha
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Boa tarde, não estamos conseguindo mais realizar o loguin da colaboradora no teans instalado no computador: 10.209.238.129, mesmo pelo navegador crome, o que está gerando grande impacto no atendimento visto que é na área da coleta. Preciso de ajuda com muita urgência.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = etiquetadora esteira roche B, não está imprimindo etiquetas legíveis ao equipamento.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Instalação do teams
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Intalação do Chrome
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Prezados, boa tarde!
+Solicito aumento de memoria RAM do computador, pois o computador está com lentidão e travando constantemente, memoria com apenas 4 GB RAM. IP = 172.19.252.165 - GUICHE 12
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Impressora começou a pedir troca de toner
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Prezados, 
+Tenho acesso e a liberação para fazer solicitação de material, porém qualquer material que eu vá solicitar aparece o erro conforme imagens abaixo.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Prezados, estamos em fase de implementação de um serviço com o Serasa e nossas mensagens por e-mail foram bloqueadas pela DLP. Gostaria de solicitar  a liberação do e-mail para que o serasa realize o suporte ao serviço
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito inativação da unidade no sistema sqdasa undiade encotra-se fechada desde setembro 2025
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Boa tarde, solicito criação de acesso ao motion para a colaboradora:
+Maiara de Oliveira
+CPF: 067.744.929-16
+
+Usar o perfil
+GG_BR_APL_PROJETO_NIRVANA_STA_LUZIA
+
+E adicionar as telas: 
+- Reimpressão de OS 
+- Suspensão de Testes 
+- inserir a opção "laudo" ao adicionar um comentário num exame
+- Alteração da Composição de Testes
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+
+DELL Latitude 3420 550097 G4V1SJ3
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito um hub de USB, pois utilizo mouse, fone e teclado, mas a 3ª porta USB está com defeito.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+DELL Latitude 3420 550003 8BV1SJ3
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Executei a transação zmmr018 para integrar a conta contábil 4201050026, do SAP para o Coupa. Porém, a mesma não foi criada no Coupa. Favor verificar se a mesma apresenta algum dado incorreto para esta integração.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem 
+DELL Latitude 3420 549818 5QV1SJ3
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+DELL Latitude 3420 545418 5S4X393
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito a instalação da estação de trabalho do laboratório dentro do centro cirurgico
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = bom dia, não recebo os comunicados do RH e da empresa como um todo, exemplo, comunicado de fim de ano. poderiam ajustar?
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Hoje meu teams vem apresentando problemas, com mensagens de erro referente a versão utilizada.
+Já havia sido atualizada a 2 meses atrás, porém voltou a acontecer e não consigo acessar,
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Informar o CNPJ
+14.877.243/0001-17
+
+Número de série do Relógio de Ponto
+00006005340000301
+
+
+Por gentileza, solicito a atualização da base de dados para cadastro de biometria do colaborador abaixo,  no Relógio de Ponto da marca Chromatox.
+
+Eduardo Guedes Sales  - matrícula: 158915
+Obrigado
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao Portal Pessoas para ajustes de ponto dos colaboradores referente a todo dia 1 de cada mês.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao medallia de gestores + piloto. Coordenador Valter deu ok.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Computados não acessa o Teams, informa que precisa atualizar. Necessário reinstalar.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Bom dia tudo bem? Foi solicitado para verificar a impressora, pois a qualidade de imagem está muito ruim, o Técnico veio até a unidade de Triagem  e informou que seria só o lacre que precisaria tirar nao cartucho, pois mesmo assim o erro continua e a qualidade de imagem está insatisfatória, por gentileza poderia verificar o quanto antes esse ocorrido, pois não podemos ficar sem a impressora, desde já agradeço atenção
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Monitor com mal contato fica piscado, ligando e desligando IP10.111.96.5
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Formatação de máquina via Intune para colaborador. 
+
+Nome colaborador: Aline Dos Reis Saraiva Doria
+
+E-mail: aline.doria@dasa.com.b
+CPF: f35423791820
+Matricula: 26999
+Patrimônio: 549925
+Service Tag: D8V1SJ3
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Nome: Giovanna Silva Justino
+CPF:54691195807
+Descrição: A colaboradora informa que anteriormente atuava como jovem aprendiz e foi recentemente efetivada. Solicita a atualização do cargo nos sistemas.  
+Sistema/Marca: Portal pessoa 
+Ramal ou Telefone:11988270054
+Hospital/ Unidade: portal do Morumbi 
+Setor: recepção 
+Bloco: n/a 
+Andar: 1°
+E-mail : giovanna.justino@dasa.com.br 
+Horário de trabalho: 7 às 13horas
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = boa tarde
+solicito um tecnico na  unidade no dia 27/10 na parte da manhã, para verificação  e avaliação de portas de redes, impressora e computadores.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Notebook para  avaliação 
+Patrimônio: 500512
+Service Tag:PE05FXRL
+
+Solicito validação do status do equipamento
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Impressora não está imprimindo, o técnico já veio para arrumar o problema mais o problema persistiu.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = MEU NOTEBOOK ESTÁ RODANDO A BOLINHA, LENTO QUANDO TENTO EDITAR DOCUMENTOS. QUANDO BAIXO ALGUM DOCUMENTO APARECE MENSAGEM QUE ESTÁ SEM ESPAÇO. OBRIGADA
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Por favor, agendar a ida do técnico em 11.11 as 16horas para instalar o Client NDD na máquina da empresa Stellantis e com isto, obter o monitoramento da impressora 
+MODELO SERIAL
+WF-M5799 X3BK035623
+Importante saber que o Técnico da Stellantis irá acompanhar a visita e entrar com a senha do Administrador nesta máquina. 
+Chamado autorizado pelo Francisco Menezes e Carlos Eduardo de Souza.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Título -  Redirecionamento 301 e Correção de Slug — “labirintite” (Portal Rede Américas)
+Cenário: 
+
+Dado que foi identificado no Portal Rede Américas um erro ortográfico no slug da página sobre sintomas de labirintite (/post/laberintite/),
+Quando o time de conteúdo corrigir o slug e a canonical no Strapi para /post/labirintite/
+E for criada uma regra de redirecionamento 301 permanente no servidor, direcionando:
+https://www.saudeamericas.com.br/post/laberintite/ → https://www.saudeamericas.com.br/post/labirintite/,
+Então o tráfego da URL antiga deverá ser automaticamente redirecionado para a nova,
+E os mecanismos de busca deverão reconhecer que o conteúdo permanece o mesmo,
+E o posicionamento orgânico e o ranqueamento conquistado anteriormente deverão ser preservados.
+Impacto:
+Sem o redirect, o Google interpretará a nova URL como conteúdo diferente, ocasionando perda de ranqueamento e tráfego orgânico. O redirect 301 garante a transferência de autoridade e a manutenção do posicionamento para o termo “labirintite”.
+
+Objetivo
+Corrigir o erro de URL sem prejudicar o desempenho orgânico e manter a consistência do SEO e das referências internas.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Favor solicito o seu de acordo para acesso ao Portal Medallia, com acesso para todas as marcas e perfil [DIAG] Gestores e permissão para Diagnósticos - Paciente
+
+Bianca da Cruz Mourão
+CPF: 443.824.668-73
+Matrícula: 158535
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Prezados,
+
+Foi verificado que a colaboradora está enfrentando erro ao tentar acessar o e-mail, recebendo a mensagem de que o usuário informado está incorreto. Conforme análise inicial, o usuário no AD está correto de acordo com o padrão F+CPF. Realizamos o reset da senha juntamente com a colaboradora e efetuamos o teste após a redefinição, porém o problema persiste.
+
+Solicitamos, por gentileza, que verifiquem o caso e realizem as correções necessárias para normalização do acesso.
+
+Alessandra Mariano Lucera Campos
+F25547802859
+alessandra.campos@dasa.com.br
+Tel. Contato: 11958595753
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito validação de uso para marca ALTA, para uso na operação HSC. Por favor enviar nova senha para o meu e-mail: THAIS.HEDER@DASA.COM.BR 
+
+ANA THAMIRES MATOS DOMINGOS AROUCA
+CPF: 108.910.346-84
+DN: 23/06/92
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = solicito toner para impressora do pre atendimento pois o mesmo esta com a tinta falhando . o numero de sera da mesma nao esta aparecendo para informa o equipamento  BRBSSDT0XN
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Necessito de cabos de rede e fonte da impressora
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito o meu acesso ao sistema motion contendo as seguintes abas: administrar pedidos médicos, gerenciamento de etapas de processos, relatórios de pendencias com setor de anatomia, gerenciamento de requisição, gerenciador de comentários de amostras/container. De acordo e anexo
+Obrigada!
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Por favor fazer a liberação de maquina para o usuário Wesley Froes da Silva. Login: F60864820399 Senha: W!fr#608.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = SOLICITO ACESSO A PASTA DE REDE E EXISTE O ACORDO DO HALISON WENICIUS EM ANEXO, POR GENTILEZA VALIDAR.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = A impressora parou de funcionar dando erro de Fusor , reiniciamos sem êxito. solicito que um técnico avalie .
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Colaboradora entrou em contato solicitando as seguintes alterações no sistema:
+
+A colaboradora já tem acesso ao monitor de pendencias, mas não  a liberação de resultados, que fica dentro do monitor de pendencias;
+
+Inclusão do CRBM 11056-DF.
+
+O chamado está sendo reaberto pela quarta vez, conforme histórico do chamado anterior RITM0950445, para continuidade do atendimento e ajustes pendentes.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = \\svriofile01.dasa.net\Departamentos\DPControle de Qualidade\CQA RJ
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Bom dia! 
+Tenho dois computadores que estão sem leitor de código de barras. Utilizamos para importação de cadastrados do setor SUS. Sem o equipamento atrasamos o cadastros e temos que cadastrar os pacientes manualmente
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito que seja criado um grupo no domínio DASA.NET e seja incluído os seguintes colaboradores (fabricia.costa@dasa.com.br, Luana.anjos@dasa.com.br, Geiza.muniz@dasa.com.br, vick.lima@dasa.com.br) para que seja inserido na permissão da pasta que foi criada no nosso sistema de arquivos.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito  acesso ao sistema MEDALLIA, para que eu possa acompanhar os indicadores e realizar ações necessárias relacionadas  a experiencia do paciente de forma mais eficiente.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao Rancher do Canal do Consultor para os ambientes DEV e HML
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = etiquetadora com defeito, não funciona. imprime errado as etiquetas.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Já tenho acesso ao Medallia, porém preciso alterar meu perfil para perfil Clooper com TODAS as regionais, Marcas e Unidades disponíveis para pesquisas médicas.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = solicito apoio tecnico para a  impressora pois esta saindo a impresso muita clara nao  elegivel e muita lenta .solicito urgencia.
+[19/11/2025 01:05:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao sistema.
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = Prezados, Boa Tarde. 
+
+Necessito que seja efetuado a liberação de Acesso Administrador no Sistema Coupa para o Marcelo Silveira, devido que o mesmo executará algumas atividades relacionadas ao Coupa para o ambiente Rede Américas. Ex. (ajuste de alçada de aprovações, etc). 
+
+Seguem dados abaixo 
+ 
+
+Nome - Marcelo Antonio Silveira 
+E-mail/Usuário - marcelo.silveira@dasa.com.br
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = IP: 10.109.247.51
+Modelo: BRBSPCP0M3 - E52645
+HP laset jet MFP Managed
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = Solicito instalação e configuração de impressora.
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = Venho por meio deste, informar que sou a nova enfermeira da unidade da Unidade Shopping União e, como parte da equipe de liderança, preciso assumir a fila de ocorrências para auxiliar nas tratativas dos nossos pacientes.
+
+Dessa forma, solicito que todas as ocorrências registradas/recebidas pela D664 entrem em minha fila
+ para que eu possa acompanhar, priorizar e atuar junto às equipes envolvidas.
+Segue anexo o de acordo da Coordenadora responsável pela unidade.
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = Falta de toner em estoque.
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:05:29] -- Novo ticket inserido | id = None | desc = Colaboradora já tem a linha precisa apenas do aparelho, pois o antigo caiu e a tela esta toda quebrada impossibilitando o uso.
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] | nao inserido | None
+[19/11/2025 01:06:57] -- Novo ticket inserido | id = None | desc = Unidade encontra-se com duas impressoras que não estão atendendo a necessidade. Gerando impacto no atendimento dos clientes e causando reclamações constantes no momento da impressão. Por diversas vezes foram feitas manutenções todas não efetivas. Ambas impressoras estão na unidade desde a inauguração. Solicito troca de equipamentos por novos a afim de melhorar a experiência do cliente.
+[19/11/2025 01:06:57] -- Novo ticket inserido | id = None | desc = computador não liga
+[19/11/2025 01:06:57] -- Novo ticket inserido | id = None | desc = Colaboradora entrou em contato solicitando as seguintes alterações no sistema:
+
+Liberação de resultados (segue anexo relatando exatamente o que preciso) "liberar resultados" (caminho: home -> produção -> monitor de pendências -> LIBERAR RESULTADOS
+
+Inclusão do CRBM-DF 11056.
+
+O chamado está sendo reaberto pela quarta vez, conforme histórico do chamado anterior RITM0950445, para continuidade do atendimento e ajustes pendentes.
+[19/11/2025 01:06:57] -- Novo ticket inserido | id = None | desc = Solicto configuração da eqtiquetadora gliese no computador do hospital, eles não permitem acesso remoto, necessario instalação presencial das 8-15 seg a sex, tecnico da Ti local precisa acompanhar, chamado anterior encerrado indevidamente, etiquetadora localizada na sala de impressoras
+[19/11/2025 01:06:57] -- Novo ticket inserido | id = None | desc = Solicito a inclusao da Aba resultado - no usuario da colaboradora 
+
+Nathalia Rocha da Silva 
+CPF: 557.234.108-81
+[19/11/2025 01:06:57] -- Novo ticket inserido | id = None | desc = solicito de acordo compra de WebCan, para participar de reuniões na marca Exame.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Impressora parada por falta de tonner.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Solicito alteração de perfil e acesso a fila de ocorrências internas e externa da unidade Lavoisier Ibirapuera para a unidade  Alta Parque Ibirapuera.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Solicito a criação deste usuario para o usuario T01942063422 - Caio Cesar Rodrigues de Oliveira
+nos ambiente HCM DEV 100 e HCM QAS 200.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Bom dia. Notebook travando, desconectando wifi  frequentemente, não sai som e também não aceita fone de ouvido REDSET só por bluetooth.  Nao consigo participar de nenhuma  Reuniao usando o Note.  Quando abro a configuração do microfone o aparelho trava. Obrigado
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Olá boa noite. Solicito a configuração do perfil SVC cardiologia, pois não estamos conseguindo entrar no nosso outlook, dasadesk, teams, portalpessoas, entramos  neles somente com nosso login pessoal, porém com esses logins não temos acesso as pastas e aos apps necessários da cardiologia.
+
+Grata desde já.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Não estou conseguindo acessar nenhum sistema Dasa (Zabbix, Fireflow, Cofre de Senhas) do Home Office mesmo com a VPN conectada. 
+
+Meu notebook antes estava vinculado ao domínio do Laboratório São Marcos.
+Ontem ele foi formatado e virado para o domínio Dasa. Após isso, acesso aos sistemas internos pararam de funcionar.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Não consigo fazer login. Consigo entrar pelo google, mas pelo aplicativo não consigo.
+Já aconteceu isso antes, foi arrumado uma vez, mas pouco tempo depois voltou a aparecer a mesma mensagem.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Colaboradora promovida via programa crescer para o cargo de Agente de Relacionamento I, a virada em portal será em dezembro, mas precisamos iniciar com os treinamentos e visitas para black friday Genera.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Preciso de ajuda
+Paciente realizou exame ontem e no atendimento estava tudo certo.
+Hoje no fechamento de lote identificamos  que o atendimento de ontem estava com nome e data de nascimento divergente com a Cip e visita igual
+
+NOME: Luana Paixao Wanderley
+CIP: 6183552426 - 6
+CPF: 145.952.047-52
+DATA DE NASCIMENTO: 23/11/1987
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Solicito adaptador para fone de ouvido, de thunderbolt (entrada do macbook pro)  para entrada USB.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Cabo display porte xvga 
+Solicito cabo para conectar computador e cpu
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Caros, bom dia!
+
+
+Conforme orientado pela BP da área, devido a uma falha sistêmica diversos colaboradores das unidades vieram para meu portal. 
+O time do RH já fez o ajuste do organograma, porém na área do ponto ainda está errado. Preciso que seja realizada a integração conforme organograma para que esses colaboradores sejam transferidos para hierarquia correta.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Bom Dia, foi concedido o acesso ao portal pessoas, porém, preciso que a colaboradora consiga fazer pesquisas dos I'ds que trabalha, na aba recrutamento, ela não tem o acesso, por favor, liberar. A solicitação do acesso ao portal pessoas seria para esta permissão. 
+
+Agradeço.
+[19/11/2025 01:06:58] -- Novo ticket inserido | id = None | desc = Sou analista de pesquisa clínica e necessito de acesso de operador
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Criação de rotina de expurgo de dados na base : faturahosp-db-flex-prd.postgres.database.azure.com
+Deve ser executada uma vez por mês.
+Script em anexo.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Formatação de máquina via Intune para colaborador.
+ 
+Nome colaborador: Maria Vandecleia Pereira Da Cruz
+E-mail: maria.vandecleia.pereira@dasa.com.br
+CPF: f36729686847 
+Matricula: 61002
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Notebook de avaliação - Desligamento
+Patrimônio: 500614
+Service Tag: PE05GONW
+Nome do colaborador: TIAGO DE ARAUJO BRAGA 
+Solicito validação do status do equipamento
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom dia, tudo bem?
+Alarmes WLC Wtorre - Favor avaliar a necessidade de monitoramento.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Instalação dos módulos de segurança dos bancos. 
+
+Itaú, BB, Bradesco
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Boa tarde, solicito reset de senha para os laboratórios apoiados (externos) em anexo. Obrigada!
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Criação de rotina de expurgo:
+Segue script para fazer expurgo na base: autenticacoes-db-flex-prd.postgres.database.azure.com
+Em anexo o script, que limpa os registros da tabela eligibility.complete_report com mais de 2 anos.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Boa tarde,
+
+Solicito o desbloqueio/ reset de senha, pois o meu login não entra. Mesmo enviando uma nova senha de reset, informa que não é possivel. 
+
+Poderia verificar, por gentileza
+
+Obrigada.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Prezados,
+
+Realizada abertura no portal de acessos solicitando a criação do meu Gliese, o mesmo foi finalizado, porém não consigo acessar, ao tentar redefinir a senha, consta que não foi vinculado o meu e-mail para envio do reset, solicito a correção:
+
+Nome: Carolina Quitto de Castro
+CPF: 40028235800
+Login: F40028235800
+E-mail: carolina.quitto@dasa.com.br
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito acesso gliese para marca ALTA, para uso na operação HSC. Enviar no e-mail: THAIS.HEDER@DASA.COM.BR
+
+APARECIDO GOMES FERREIRA
+CPF: 303.863. 108-66
+DN: 20/12/83
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito um equipamento de Moxa, um DB9 macho e um DB9 fêmea para instalação de interface no equipamento Rotem do Hospital Santa Joana-PE
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom dia, solicito unidade de imagem para Unidade Bronstein Downtown.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom dia, tudo bem?
+Alarmes do Cisco ISE - Favor avaliar a necessidade de monitoramento.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom tarde !! Solicito um ajuste de cnes na marca Lustosa para o convênio Cosipa- alfa(Lu-198-Lu-2316-Lu-1780-Local de negocio-0001,  pois o convênio só aceita o cnes matriz e todos estão por unidade, CNES matriz 3127230, segue a planilha
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Boa tarde, não estamos conseguindo mais realizar o loguin da colaboradora no teans instalado no computador: 10.209.238.129, mesmo pelo navegador crome, o que está gerando grande impacto no atendimento visto que é na área da coleta. Preciso de ajuda com muita urgência.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = etiquetadora esteira roche B, não está imprimindo etiquetas legíveis ao equipamento.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Instalação do teams
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Intalação do Chrome
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Prezados, boa tarde!
+Solicito aumento de memoria RAM do computador, pois o computador está com lentidão e travando constantemente, memoria com apenas 4 GB RAM. IP = 172.19.252.165 - GUICHE 12
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Impressora começou a pedir troca de toner
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Prezados, 
+Tenho acesso e a liberação para fazer solicitação de material, porém qualquer material que eu vá solicitar aparece o erro conforme imagens abaixo.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Prezados, estamos em fase de implementação de um serviço com o Serasa e nossas mensagens por e-mail foram bloqueadas pela DLP. Gostaria de solicitar  a liberação do e-mail para que o serasa realize o suporte ao serviço
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito inativação da unidade no sistema sqdasa undiade encotra-se fechada desde setembro 2025
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Boa tarde, solicito criação de acesso ao motion para a colaboradora:
+Maiara de Oliveira
+CPF: 067.744.929-16
+
+Usar o perfil
+GG_BR_APL_PROJETO_NIRVANA_STA_LUZIA
+
+E adicionar as telas: 
+- Reimpressão de OS 
+- Suspensão de Testes 
+- inserir a opção "laudo" ao adicionar um comentário num exame
+- Alteração da Composição de Testes
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+
+DELL Latitude 3420 550097 G4V1SJ3
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito um hub de USB, pois utilizo mouse, fone e teclado, mas a 3ª porta USB está com defeito.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+DELL Latitude 3420 550003 8BV1SJ3
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Executei a transação zmmr018 para integrar a conta contábil 4201050026, do SAP para o Coupa. Porém, a mesma não foi criada no Coupa. Favor verificar se a mesma apresenta algum dado incorreto para esta integração.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem 
+DELL Latitude 3420 549818 5QV1SJ3
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Atualização de imagem
+DELL Latitude 3420 545418 5S4X393
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito a instalação da estação de trabalho do laboratório dentro do centro cirurgico
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = bom dia, não recebo os comunicados do RH e da empresa como um todo, exemplo, comunicado de fim de ano. poderiam ajustar?
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Hoje meu teams vem apresentando problemas, com mensagens de erro referente a versão utilizada.
+Já havia sido atualizada a 2 meses atrás, porém voltou a acontecer e não consigo acessar,
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Informar o CNPJ
+14.877.243/0001-17
+
+Número de série do Relógio de Ponto
+00006005340000301
+
+
+Por gentileza, solicito a atualização da base de dados para cadastro de biometria do colaborador abaixo,  no Relógio de Ponto da marca Chromatox.
+
+Eduardo Guedes Sales  - matrícula: 158915
+Obrigado
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao Portal Pessoas para ajustes de ponto dos colaboradores referente a todo dia 1 de cada mês.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao medallia de gestores + piloto. Coordenador Valter deu ok.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Computados não acessa o Teams, informa que precisa atualizar. Necessário reinstalar.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom dia tudo bem? Foi solicitado para verificar a impressora, pois a qualidade de imagem está muito ruim, o Técnico veio até a unidade de Triagem  e informou que seria só o lacre que precisaria tirar nao cartucho, pois mesmo assim o erro continua e a qualidade de imagem está insatisfatória, por gentileza poderia verificar o quanto antes esse ocorrido, pois não podemos ficar sem a impressora, desde já agradeço atenção
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Monitor com mal contato fica piscado, ligando e desligando IP10.111.96.5
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Formatação de máquina via Intune para colaborador. 
+
+Nome colaborador: Aline Dos Reis Saraiva Doria
+
+E-mail: aline.doria@dasa.com.b
+CPF: f35423791820
+Matricula: 26999
+Patrimônio: 549925
+Service Tag: D8V1SJ3
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Nome: Giovanna Silva Justino
+CPF:54691195807
+Descrição: A colaboradora informa que anteriormente atuava como jovem aprendiz e foi recentemente efetivada. Solicita a atualização do cargo nos sistemas.  
+Sistema/Marca: Portal pessoa 
+Ramal ou Telefone:11988270054
+Hospital/ Unidade: portal do Morumbi 
+Setor: recepção 
+Bloco: n/a 
+Andar: 1°
+E-mail : giovanna.justino@dasa.com.br 
+Horário de trabalho: 7 às 13horas
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = boa tarde
+solicito um tecnico na  unidade no dia 27/10 na parte da manhã, para verificação  e avaliação de portas de redes, impressora e computadores.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Notebook para  avaliação 
+Patrimônio: 500512
+Service Tag:PE05FXRL
+
+Solicito validação do status do equipamento
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Impressora não está imprimindo, o técnico já veio para arrumar o problema mais o problema persistiu.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = MEU NOTEBOOK ESTÁ RODANDO A BOLINHA, LENTO QUANDO TENTO EDITAR DOCUMENTOS. QUANDO BAIXO ALGUM DOCUMENTO APARECE MENSAGEM QUE ESTÁ SEM ESPAÇO. OBRIGADA
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Por favor, agendar a ida do técnico em 11.11 as 16horas para instalar o Client NDD na máquina da empresa Stellantis e com isto, obter o monitoramento da impressora 
+MODELO SERIAL
+WF-M5799 X3BK035623
+Importante saber que o Técnico da Stellantis irá acompanhar a visita e entrar com a senha do Administrador nesta máquina. 
+Chamado autorizado pelo Francisco Menezes e Carlos Eduardo de Souza.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Título -  Redirecionamento 301 e Correção de Slug — “labirintite” (Portal Rede Américas)
+Cenário: 
+
+Dado que foi identificado no Portal Rede Américas um erro ortográfico no slug da página sobre sintomas de labirintite (/post/laberintite/),
+Quando o time de conteúdo corrigir o slug e a canonical no Strapi para /post/labirintite/
+E for criada uma regra de redirecionamento 301 permanente no servidor, direcionando:
+https://www.saudeamericas.com.br/post/laberintite/ → https://www.saudeamericas.com.br/post/labirintite/,
+Então o tráfego da URL antiga deverá ser automaticamente redirecionado para a nova,
+E os mecanismos de busca deverão reconhecer que o conteúdo permanece o mesmo,
+E o posicionamento orgânico e o ranqueamento conquistado anteriormente deverão ser preservados.
+Impacto:
+Sem o redirect, o Google interpretará a nova URL como conteúdo diferente, ocasionando perda de ranqueamento e tráfego orgânico. O redirect 301 garante a transferência de autoridade e a manutenção do posicionamento para o termo “labirintite”.
+
+Objetivo
+Corrigir o erro de URL sem prejudicar o desempenho orgânico e manter a consistência do SEO e das referências internas.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Favor solicito o seu de acordo para acesso ao Portal Medallia, com acesso para todas as marcas e perfil [DIAG] Gestores e permissão para Diagnósticos - Paciente
+
+Bianca da Cruz Mourão
+CPF: 443.824.668-73
+Matrícula: 158535
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Prezados,
+
+Foi verificado que a colaboradora está enfrentando erro ao tentar acessar o e-mail, recebendo a mensagem de que o usuário informado está incorreto. Conforme análise inicial, o usuário no AD está correto de acordo com o padrão F+CPF. Realizamos o reset da senha juntamente com a colaboradora e efetuamos o teste após a redefinição, porém o problema persiste.
+
+Solicitamos, por gentileza, que verifiquem o caso e realizem as correções necessárias para normalização do acesso.
+
+Alessandra Mariano Lucera Campos
+F25547802859
+alessandra.campos@dasa.com.br
+Tel. Contato: 11958595753
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito validação de uso para marca ALTA, para uso na operação HSC. Por favor enviar nova senha para o meu e-mail: THAIS.HEDER@DASA.COM.BR 
+
+ANA THAMIRES MATOS DOMINGOS AROUCA
+CPF: 108.910.346-84
+DN: 23/06/92
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = solicito toner para impressora do pre atendimento pois o mesmo esta com a tinta falhando . o numero de sera da mesma nao esta aparecendo para informa o equipamento  BRBSSDT0XN
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Necessito de cabos de rede e fonte da impressora
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito o meu acesso ao sistema motion contendo as seguintes abas: administrar pedidos médicos, gerenciamento de etapas de processos, relatórios de pendencias com setor de anatomia, gerenciamento de requisição, gerenciador de comentários de amostras/container. De acordo e anexo
+Obrigada!
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Por favor fazer a liberação de maquina para o usuário Wesley Froes da Silva. Login: F60864820399 Senha: W!fr#608.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = SOLICITO ACESSO A PASTA DE REDE E EXISTE O ACORDO DO HALISON WENICIUS EM ANEXO, POR GENTILEZA VALIDAR.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = A impressora parou de funcionar dando erro de Fusor , reiniciamos sem êxito. solicito que um técnico avalie .
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Colaboradora entrou em contato solicitando as seguintes alterações no sistema:
+
+A colaboradora já tem acesso ao monitor de pendencias, mas não  a liberação de resultados, que fica dentro do monitor de pendencias;
+
+Inclusão do CRBM 11056-DF.
+
+O chamado está sendo reaberto pela quarta vez, conforme histórico do chamado anterior RITM0950445, para continuidade do atendimento e ajustes pendentes.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = \\svriofile01.dasa.net\Departamentos\DPControle de Qualidade\CQA RJ
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom dia! 
+Tenho dois computadores que estão sem leitor de código de barras. Utilizamos para importação de cadastrados do setor SUS. Sem o equipamento atrasamos o cadastros e temos que cadastrar os pacientes manualmente
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito que seja criado um grupo no domínio DASA.NET e seja incluído os seguintes colaboradores (fabricia.costa@dasa.com.br, Luana.anjos@dasa.com.br, Geiza.muniz@dasa.com.br, vick.lima@dasa.com.br) para que seja inserido na permissão da pasta que foi criada no nosso sistema de arquivos.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito  acesso ao sistema MEDALLIA, para que eu possa acompanhar os indicadores e realizar ações necessárias relacionadas  a experiencia do paciente de forma mais eficiente.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao Rancher do Canal do Consultor para os ambientes DEV e HML
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = etiquetadora com defeito, não funciona. imprime errado as etiquetas.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Já tenho acesso ao Medallia, porém preciso alterar meu perfil para perfil Clooper com TODAS as regionais, Marcas e Unidades disponíveis para pesquisas médicas.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = solicito apoio tecnico para a  impressora pois esta saindo a impresso muita clara nao  elegivel e muita lenta .solicito urgencia.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito acesso ao sistema.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Prezados, Boa Tarde. 
+
+Necessito que seja efetuado a liberação de Acesso Administrador no Sistema Coupa para o Marcelo Silveira, devido que o mesmo executará algumas atividades relacionadas ao Coupa para o ambiente Rede Américas. Ex. (ajuste de alçada de aprovações, etc). 
+
+Seguem dados abaixo 
+ 
+
+Nome - Marcelo Antonio Silveira 
+E-mail/Usuário - marcelo.silveira@dasa.com.br
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = IP: 10.109.247.51
+Modelo: BRBSPCP0M3 - E52645
+HP laset jet MFP Managed
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito instalação e configuração de impressora.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Venho por meio deste, informar que sou a nova enfermeira da unidade da Unidade Shopping União e, como parte da equipe de liderança, preciso assumir a fila de ocorrências para auxiliar nas tratativas dos nossos pacientes.
+
+Dessa forma, solicito que todas as ocorrências registradas/recebidas pela D664 entrem em minha fila
+ para que eu possa acompanhar, priorizar e atuar junto às equipes envolvidas.
+Segue anexo o de acordo da Coordenadora responsável pela unidade.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Falta de toner em estoque.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = aparelho celular para nova colaboradora, motivo: Atendimento Domiciliar , necessário para rotina de trabalho.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Colaboradora já tem a linha precisa apenas do aparelho, pois o antigo caiu e a tela esta toda quebrada impossibilitando o uso.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Impressora esta parada e não estamos conseguindo atender nossos pacientes, pois estamos com a etiquetadora inoperante
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Unidade encontra-se com duas impressoras que não estão atendendo a necessidade. Gerando impacto no atendimento dos clientes e causando reclamações constantes no momento da impressão. Por diversas vezes foram feitas manutenções todas não efetivas. Ambas impressoras estão na unidade desde a inauguração. Solicito troca de equipamentos por novos a afim de melhorar a experiência do cliente.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = computador não liga
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Colaboradora entrou em contato solicitando as seguintes alterações no sistema:
+
+Liberação de resultados (segue anexo relatando exatamente o que preciso) "liberar resultados" (caminho: home -> produção -> monitor de pendências -> LIBERAR RESULTADOS
+
+Inclusão do CRBM-DF 11056.
+
+O chamado está sendo reaberto pela quarta vez, conforme histórico do chamado anterior RITM0950445, para continuidade do atendimento e ajustes pendentes.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicto configuração da eqtiquetadora gliese no computador do hospital, eles não permitem acesso remoto, necessario instalação presencial das 8-15 seg a sex, tecnico da Ti local precisa acompanhar, chamado anterior encerrado indevidamente, etiquetadora localizada na sala de impressoras
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito a inclusao da Aba resultado - no usuario da colaboradora 
+
+Nathalia Rocha da Silva 
+CPF: 557.234.108-81
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = solicito de acordo compra de WebCan, para participar de reuniões na marca Exame.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Impressora parada por falta de tonner.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito alteração de perfil e acesso a fila de ocorrências internas e externa da unidade Lavoisier Ibirapuera para a unidade  Alta Parque Ibirapuera.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito a criação deste usuario para o usuario T01942063422 - Caio Cesar Rodrigues de Oliveira
+nos ambiente HCM DEV 100 e HCM QAS 200.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom dia. Notebook travando, desconectando wifi  frequentemente, não sai som e também não aceita fone de ouvido REDSET só por bluetooth.  Nao consigo participar de nenhuma  Reuniao usando o Note.  Quando abro a configuração do microfone o aparelho trava. Obrigado
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Olá boa noite. Solicito a configuração do perfil SVC cardiologia, pois não estamos conseguindo entrar no nosso outlook, dasadesk, teams, portalpessoas, entramos  neles somente com nosso login pessoal, porém com esses logins não temos acesso as pastas e aos apps necessários da cardiologia.
+
+Grata desde já.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Não estou conseguindo acessar nenhum sistema Dasa (Zabbix, Fireflow, Cofre de Senhas) do Home Office mesmo com a VPN conectada. 
+
+Meu notebook antes estava vinculado ao domínio do Laboratório São Marcos.
+Ontem ele foi formatado e virado para o domínio Dasa. Após isso, acesso aos sistemas internos pararam de funcionar.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Não consigo fazer login. Consigo entrar pelo google, mas pelo aplicativo não consigo.
+Já aconteceu isso antes, foi arrumado uma vez, mas pouco tempo depois voltou a aparecer a mesma mensagem.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Colaboradora promovida via programa crescer para o cargo de Agente de Relacionamento I, a virada em portal será em dezembro, mas precisamos iniciar com os treinamentos e visitas para black friday Genera.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Preciso de ajuda
+Paciente realizou exame ontem e no atendimento estava tudo certo.
+Hoje no fechamento de lote identificamos  que o atendimento de ontem estava com nome e data de nascimento divergente com a Cip e visita igual
+
+NOME: Luana Paixao Wanderley
+CIP: 6183552426 - 6
+CPF: 145.952.047-52
+DATA DE NASCIMENTO: 23/11/1987
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Solicito adaptador para fone de ouvido, de thunderbolt (entrada do macbook pro)  para entrada USB.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Cabo display porte xvga 
+Solicito cabo para conectar computador e cpu
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Caros, bom dia!
+
+
+Conforme orientado pela BP da área, devido a uma falha sistêmica diversos colaboradores das unidades vieram para meu portal. 
+O time do RH já fez o ajuste do organograma, porém na área do ponto ainda está errado. Preciso que seja realizada a integração conforme organograma para que esses colaboradores sejam transferidos para hierarquia correta.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Bom Dia, foi concedido o acesso ao portal pessoas, porém, preciso que a colaboradora consiga fazer pesquisas dos I'ds que trabalha, na aba recrutamento, ela não tem o acesso, por favor, liberar. A solicitação do acesso ao portal pessoas seria para esta permissão. 
+
+Agradeço.
+[19/11/2025 01:09:28] -- Novo ticket inserido | id = None | desc = Sou analista de pesquisa clínica e necessito de acesso de operador
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
+[19/11/2025 01:09:59] | nao inserido | None
